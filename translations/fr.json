@@ -1,0 +1,14 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Connexion au serveur INDI",
+        "description": "Veuillez entrer les détails de connexion.",
+        "data": {
+          "host": "Hôte",
+          "port": "Port"
+        }
+      }
+    }
+  }
+}
