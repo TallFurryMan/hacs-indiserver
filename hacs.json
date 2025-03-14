@@ -1,0 +1,9 @@
+{
+  "name": "INDI Server",
+  "domains": ["indiserver"],
+  "country": "US",
+  "homeassistant": "2023.10.0",
+  "filename": "manifest.json",
+  "iot_class": "local_polling",
+  "integration_type": "integration"
+}

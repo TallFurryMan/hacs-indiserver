@@ -1,0 +1,10 @@
+numpy
+aiousbwatcher
+aiodhcpwatcher
+async_upnp_client
+hassil
+#haffmpeg
+go2rtc_client
+av
+home-assistant-frontend
+homeassistant
